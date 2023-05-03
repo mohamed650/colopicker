@@ -38,4 +38,5 @@ span{
     font-size: 18px;
     letter-spacing: 0.5px;
     border-radius: 2px;
+    cursor: pointer;
 }
